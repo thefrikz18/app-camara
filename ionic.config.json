@@ -1,7 +1,16 @@
 {
   "name": "appVideoCapture",
   "integrations": {
-    "capacitor": {}
+    "capacitor": {},
+    "enterprise": {
+      "keyId": 18646,
+      "productKey": "key_e5df248f48074323b722c14244c896df",
+      "appId": "87ce5d61",
+      "orgId": "58687d8d-1219-4133-8da4-be28d61d3c37",
+      "registries": [
+        "@ionic-enterprise;https://registry.ionicframework.com/"
+      ]
+    }
   },
   "type": "angular"
 }
